@@ -5,7 +5,7 @@
  * Date : 20/08/2020 
  * Porject Name : Hello World With LCD
  * Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
- * Under Guidence of Dr.N.M.Dhawale 
+ * Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020  
  * 
  */
  
