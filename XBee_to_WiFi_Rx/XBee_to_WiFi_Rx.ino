@@ -20,7 +20,8 @@
 // over serial communication link
 // re transmitt the data to thingspeak IoT data server for storage and display
 // Created by Dr. Nandkishor Motiram Dhawale and Kiran Ashok Shinde
-// Date of Creation Sep 2020
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Sep 2020 
+
 
  ****************************************************/
 #include <ESP8266WiFi.h>
