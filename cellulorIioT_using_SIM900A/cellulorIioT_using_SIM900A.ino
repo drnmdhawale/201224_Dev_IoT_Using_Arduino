@@ -1,3 +1,14 @@
+
+// This Program is developed to aquire sensor data from DHT22 Sensor
+// To trasmitt the aquired data using the cellular module Sim 900
+// over wireess serial communication link to the cloud
+// Created by Dr. Nandkishor Motiram Dhawale and Kiran Ashok Shinde
+// Date of Creation Sep 2020
+// Project Name :  aquire sensor data from DHT22 Sensor
+// Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon, I/C - R&D Cell
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Sep 2020 
+
+
 #include <SoftwareSerial.h>
 #include <TinyGPS.h> 
 #include <String.h>
