@@ -1,10 +1,11 @@
-/*
- * Created by ArduinoGetStarted.com
- *
- * This example code is in the public domain
- *
- * Tutorial page: https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor
- */
+
+// This Program is developed to aquire sensor data from DHT22 Sensor
+// Created by Dr. Nandkishor Motiram Dhawale and Kiran Ashok Shinde
+// Date of Creation Dec 2020
+// Project Name :  Aquire sensor data from DHT11 Sensor
+// Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon, I/C - R&D Cell
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Dec 2020 
+
 
 #include "DHT.h"
 #define DHTPIN 4
