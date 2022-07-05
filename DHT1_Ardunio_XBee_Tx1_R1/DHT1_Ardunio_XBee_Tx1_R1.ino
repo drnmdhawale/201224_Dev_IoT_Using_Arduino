@@ -4,6 +4,10 @@
 // Created by Dr. Nandkishor Motiram Dhawale and Kiran Ashok Shinde
 // Date of Creation Sep 2020
 
+// Project Name :  aquire sensor data from DHT22 Sensor
+// Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon, I/C - R&D Cell
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Sep 2020 
+
 #include "DHT.h"
 #define DHTPIN 2
 #define DHTTYPE DHT22
