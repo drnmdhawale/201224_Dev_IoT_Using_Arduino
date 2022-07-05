@@ -1,9 +1,9 @@
  /*
  * All the resourcess from https://www.ioxhop.com/article/37
  * Date : 21/08/2020 
- * Porject Name : Security Access using RFID User 
+ * Project Name : Security Access using RFID User 
  * Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
- * Under Guidence of Dr.N.M.Dhawale 
+ * Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020  
  */
  
 
