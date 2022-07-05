@@ -1,15 +1,7 @@
 /*
- * MotorKnob
- *
- * A stepper motor follows the turns of a potentiometer
- * (or other sensor) on analog input 0.
- *
- * http://www.arduino.cc/en/Reference/Stepper
- * This example code is in the public domain.
- * Date : 21/08/2020 
- * Porject Name : Motor Knob
- * Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
- * Under Guidence of Dr.N.M.Dhawale 
+   * Project Name :  Stepper Motor Control using Knob
+ * Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
+ * Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020  
  */
 
 #include <Stepper.h>
