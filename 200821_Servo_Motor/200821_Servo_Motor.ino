@@ -1,14 +1,7 @@
-/*
- Controlling a servo position using a potentiometer (variable resistor)
- by Michal Rinott <http://people.interaction-ivrea.it/m.rinott>
-
- modified on 8 Nov 2013
- by Scott Fitzgerald
- http://www.arduino.cc/en/Tutorial/Knob
-  * Porject Name :  Controlling a servo position using a potentiometer (variable resistor)
- * Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
- * Under Guidence of Dr.N.M.Dhawale 
- 
+/* 
+  * Project Name :  Controlling a servo position using a potentiometer (variable resistor)
+ * Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
+ * Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020 
 */
 
 #include <Servo.h>
