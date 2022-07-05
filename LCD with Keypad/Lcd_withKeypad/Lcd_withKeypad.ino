@@ -1,7 +1,7 @@
-/* * Date : 21/08/2020 
- * Porject Name : LCD With Keypad
- * Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,R&D Cell
- * Under Guidence of Dr.N.M.Dhawale 
+// Date : 21/08/2020 
+// Project Name : LCD With Keypad
+// Recreated  and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon,  R&D Cell
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020  
 
    Demonstrates the use a 16x2 LCD display and
   4x4 LCD display.  T
