@@ -1,4 +1,10 @@
-int led = 13;
+*/
+ * Project Name :  Controlling Led via Xbee
+ * Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon, I/C - R&D Cell
+ * Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Aug 2020 
+ /*
+   
+   int led = 13;
 int received = 0;
 int i;
 
