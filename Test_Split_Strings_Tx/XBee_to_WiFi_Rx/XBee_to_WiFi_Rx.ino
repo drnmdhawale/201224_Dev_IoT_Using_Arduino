@@ -1,3 +1,11 @@
+// This Program is developed to aquire sensor data from DHT22 Sensor and trasnmit to the cloud
+// over wireless serial communication link
+// Created by Dr. Nandkishor Motiram Dhawale and Kiran Ashok Shinde
+// Date of Creation Dec 2020
+// Project Name : to transmit data on the cloud via esp8266
+// Recreated and Implemented by :- Kiran Shinde and Rohan Kulkarni. For PVPIT Budhgaon, I/C - R&D Cell
+// Under Guidence of Dr.N.M.Dhawale, I/c- R&D Cell, P.V.P.I.T Budhgaon, Sangli, India in Dec 2020 
+
 /***************************************************
   Adafruit MQTT Library ESP8266 Example
 
